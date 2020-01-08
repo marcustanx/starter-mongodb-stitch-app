@@ -1,0 +1,9 @@
+{
+    "name": "mongo-stitch-sdk",
+    "type": "mongodb-atlas",
+    "config": {
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
