@@ -1,4 +1,10 @@
 {
+    "app_id": "starter-mongodb-stitch-app-imhvk",
+    "hosting": {
+        "enabled": true,
+        "default_response_code": 200,
+        "default_error_path": "/index.html"
+    },
     "config_version": 20180301,
     "security": {},
     "custom_user_data_config": {
